@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+section.homepage {
+    background: #EEEFF1;
+    padding: 80px 20% 400px;
+}
+
+section.project {
+    background: #34547A;
+}
+
+section.about {
+    background: #F9F9F9;
+}
+
+section.work {
+    background: #EEEFF1;
+}
+
+section.contact {
+    background: #34547A;
+}
+
+.nav {
+    display: flex;
+    gap: 42px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164.063%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.ul {
+    display: flex;
+    gap: 140px;
+    padding: 100px 400px;
+}
+
+h1 {
+    padding-top: 150px;
+    padding-bottom: 60px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 164%;
+}
+
+.p-main {
+    padding-bottom: 65px;
+    padding-right: 630px;
+    color: #727272;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164%;
+}
+
+button {
+    width: 100%;
+    max-width: 225px;
+    padding: 19px 41px 21px;
+    background: #34547A;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164%;
+    letter-spacing: 2px;
+}
+
+h2 {
+    color: #000;
+    padding-top: 112px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.p-about {
+    text-indent: 10px;
+    padding-left: 690px;
+    padding-right: 690px;
+    padding-bottom: 100px;
+    color: #727272;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164%;
+}
+
+h3 {
+    color: #FFF;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+li p {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164%;
+}
+
+div h2 {
+    color: #000;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+div p {
+    color: #727272;
+    padding-left: 690px;
+    padding-right: 690px;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164%;
+}
+
+iframe {
+    padding: 57px 400px 100px;
+
+}
+
+footer h3 {
+    color: #FFF;
+    padding-bottom: 20px;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+footer h6 {
+    color: #FFF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 164%;
+}
+
+footer {
+    padding: 50px 400px;
+}
